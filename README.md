@@ -1,13 +1,42 @@
-<h1 align="center">Hi 👋, I'm Pranav Mankar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mankarpranav&label=Profile%20views&color=0e75b6&style=flat" alt="mankarpranav" /> </p>
+<!--
+**zoshila/zoshila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Here are some ideas to get you started:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mankarpranav&show_icons=true&locale=en&layout=compact" alt="mankarpranav" /></p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mankarpranav&" alt="mankarpranav" /></p>
+
+Passionate about creating dynamic and intuitive user interfaces, I specialize in developing mobile applications using React Native and in Spring Boot for backend development.
+
+## Skills
+
+- Java
+- Spring Boot
+- React
+- C++
+- MySql
+
+## About Me
+
+Experienced Full Stack Developer proficient in Java, Spring Boot, Angular, and React, with a strong focus on building scalable web applications and microservices architectures.
+
+<--
+## Blog
+You can find my technical blog at https://www.zosacademy.com/blog. I frequently write about topics related to Java, Spring Boot, Angular, React, and more.
+-->
+
+## Contact Me
+
+- Email: mankarpranav0202@gmail.com
+
 
