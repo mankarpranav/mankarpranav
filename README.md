@@ -35,6 +35,6 @@ In this fast-paced and ever-evolving field, I firmly believe that the only const
 ## Contact Me
 
 - Email: mankarpranav0202@gmail.com
-- Linkedin: mankarpranav
+- Linkedin: [mankarpranav](https://www.linkedin.com/in/mankarpranav/)
 
 
