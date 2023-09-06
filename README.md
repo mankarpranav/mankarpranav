@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <!-- Passionate about creating dynamic and intuitive user interfaces, I specialize in developing mobile applications using React Native and in Spring Boot for backend development. -->
 
-Hello there! 👋 I'm Pranav, a passionate and enthusiastic Computer Science undergraduate student with a strong desire to learn and grow in the exciting world of technology. This GitHub serves as a platform where I showcase my journey in exploring and mastering various cutting-edge technologies.
+👋 I'm Pranav, a passionate and enthusiastic Computer Science undergraduate student with a strong desire to learn and grow in the exciting world of technology. This GitHub serves as a platform where I showcase my journey in exploring and mastering various cutting-edge technologies.
 
 ## About Me
 
